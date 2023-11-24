@@ -1,0 +1,6 @@
+framework module Pods_phonemacWifi {
+  umbrella header "Pods-phonemacWifi-umbrella.h"
+
+  export *
+  module * { export * }
+}
